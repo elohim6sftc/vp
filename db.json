@@ -1,0 +1,43 @@
+{
+  "22324508-d278-9109-b9c0-d062f80f9818": {
+    "type": "UMELE_KUPALISKO",
+    "properties": {
+      "nazov": "TP  DS",
+      "datumUvedenia": "2008-01-15",
+      "obec": "Dunajská Streda",
+      "zemepisnaSirka": 47.984207,
+      "zemepisnaDlzka": 17.608036,
+      "poznamka": "",
+      "vybavenost": [
+        {
+          "nazov": "WC",
+          "hodnota": "45"
+        },
+        {
+          "nazov": "Sprchy",
+          "hodnota": "6"
+        },
+        {
+          "nazov": "Šatne, Šatňové skrinky",
+          "hodnota": "2"
+        }
+      ],
+      "ostatneUdaje": {
+        "kapacitaKupaliska": 4000,
+        "vodnaPlochaKupaliska": null,
+        "oddychovaPlocha": null
+      },
+      "prevadzkovatelia": [
+        {
+          "nazov": "TP DS, a.s.",
+          "ico": "xxxx123123",
+          "ulica": "Gabčíkovská cesta",
+          "cislo": "38",
+          "obec": "Dunajská Streda",
+          "psc": "92901"
+        }
+      ],
+      "bazeny": null
+    }
+  }
+}
