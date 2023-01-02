@@ -21,7 +21,9 @@
         }
       ],
       "ostatneUdaje": {
-        "kapacitaKupaliska": 4000
+        "kapacitaKupaliska": 4000,
+        "vodnaPlochaKupaliska": null,
+        "oddychovaPlocha": null
       },
       "prevadzkovatelia": [
         {
