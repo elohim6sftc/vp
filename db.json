@@ -1,8 +1,6 @@
 {
   "22324508-d278-9109-b9c0-d062f80f9818": {
-    "type": "UMELE_KUPALISKO",
-    "properties": {
-      "nazov": "TP  DS",
+      "nazov": "THERMALPARK  DS",
       "datumUvedenia": "2008-01-15",
       "obec": "Dunajská Streda",
       "zemepisnaSirka": 47.984207,
@@ -29,8 +27,8 @@
       },
       "prevadzkovatelia": [
         {
-          "nazov": "TP DS, a.s.",
-          "ico": "xxxx123123",
+          "nazov": "THERMALPARK DS, a.s.",
+          "ico": "31450920",
           "ulica": "Gabčíkovská cesta",
           "cislo": "38",
           "obec": "Dunajská Streda",
@@ -39,5 +37,4 @@
       ],
       "bazeny": null
     }
-  }
 }
